@@ -2,6 +2,6 @@
 
 ![prak132's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?theme=dark&user=prak132&hide_border=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=prak132)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prak132&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=prak132)
