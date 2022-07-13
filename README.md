@@ -4,4 +4,4 @@
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=prak132&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile Views](https://komarev.com/ghpvc/?username=prak132)
+![Profile Views](https://komarev.com/ghpvc/?username=prak132$theme=dark)
